@@ -1,0 +1,35 @@
+.Main {
+  background-color: rgb(131, 131, 131);
+  h2 {
+    padding: 100px 0 0;
+  }
+  .grid-drag-drop {
+    width: 80%;
+    margin: 0 auto;
+    padding: 100px 0 200px;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    grid-gap: 1rem;
+    .item {
+      user-select: none;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100px;
+      color: rgb(247, 247, 247);
+      &.dragging {
+        border: 2px dashed white;
+        // -webkit-user-drag: element;
+      }
+      * {
+        pointer-events: none;
+      }
+    }
+    .item-clone {
+      position: absolute;
+      pointer-events: none;
+      opacity: 0.5;
+    }
+  }
+}
