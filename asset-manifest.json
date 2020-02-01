@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drag-drop-grid/static/css/main.8cd0dd8b.chunk.css",
+    "main.js": "/drag-drop-grid/static/js/main.2921cea6.chunk.js",
+    "main.js.map": "/drag-drop-grid/static/js/main.2921cea6.chunk.js.map",
+    "runtime-main.js": "/drag-drop-grid/static/js/runtime-main.43fe9786.js",
+    "runtime-main.js.map": "/drag-drop-grid/static/js/runtime-main.43fe9786.js.map",
+    "static/js/2.bf3271e2.chunk.js": "/drag-drop-grid/static/js/2.bf3271e2.chunk.js",
+    "static/js/2.bf3271e2.chunk.js.map": "/drag-drop-grid/static/js/2.bf3271e2.chunk.js.map",
+    "index.html": "/drag-drop-grid/index.html",
+    "precache-manifest.e5ee966cba6d10ee0853766416e4f9f9.js": "/drag-drop-grid/precache-manifest.e5ee966cba6d10ee0853766416e4f9f9.js",
+    "service-worker.js": "/drag-drop-grid/service-worker.js",
+    "static/css/main.8cd0dd8b.chunk.css.map": "/drag-drop-grid/static/css/main.8cd0dd8b.chunk.css.map",
+    "static/js/2.bf3271e2.chunk.js.LICENSE.txt": "/drag-drop-grid/static/js/2.bf3271e2.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/drag-drop-grid/static/media/SourceSansPro-Regular.3f482321.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43fe9786.js",
+    "static/js/2.bf3271e2.chunk.js",
+    "static/css/main.8cd0dd8b.chunk.css",
+    "static/js/main.2921cea6.chunk.js"
+  ]
+}
